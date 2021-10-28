@@ -13,8 +13,8 @@
 
 <h2 align="center"><b>⚡Toy Project⚡</b></h2>
 <p align="center">
-  1. 아파트 매매/전세 부동산 도우미 서비스 'HappyHouse' https://github.com/hoyeong-s/Happy_House </br>
-  2. 모바일 웹 자취생 커뮤니티 'CLOSER' https://github.com/hoyeong-s/CLOSER</br>
+  1. 아파트 매매/전세 부동산 도우미 서비스 'HappyHouse' ( https://github.com/hoyeong-s/Happy_House ) </br>
+  2. 모바일 웹 자취생 커뮤니티 'CLOSER' ( https://github.com/hoyeong-s/CLOSER ) </br>
   3. 혼자 공부 </br>
 </p>
 
