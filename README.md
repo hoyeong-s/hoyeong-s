@@ -16,7 +16,7 @@
   1. 아파트 매매/전세 부동산 도우미 서비스 'HappyHouse' ( https://github.com/hoyeong-s/Happy_House ) </br>
   2. 모바일 웹 자취생 커뮤니티 'CLOSER' ( https://github.com/hoyeong-s/CLOSER ) </br>
   3. 혼자 공부 하는 사람들을 위한 공부 집중 도움 서비스 'Study With Us'</br>
-  4. 시각장애인을 위한 버스 탑승 어플리케이션 'B_Us'</br>
+  4. 시각장애인을 위한 버스 탑승 어플리케이션 'B_Us' ( https://github.com/hoyeong-s/B_Us )</br>
 </p>
 
 <h2></h2>
