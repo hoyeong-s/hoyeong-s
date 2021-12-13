@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/AndroidStudio-1572B6?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
+
   </p>
 
 </br>
